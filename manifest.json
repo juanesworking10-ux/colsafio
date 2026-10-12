@@ -1,6 +1,6 @@
    {
      "forge": "47.3.0",
-     "serverIp": "",
+     "serverIp": "localhost",
      "serverPort": 25565,
      "ramMb": 4096,
      "mods": []
