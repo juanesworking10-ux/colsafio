@@ -1,13 +1,7 @@
-{
-  "forge": "1.20.1",
-  "serverIp": "",
-  "serverPort": 25565,
-  "ramMb": 4096,
-  "mods": [
-    {
-      "file": "ejemplo-mod-1.20.1.jar",
-      "url": "https://TU-DOMINIO.com/colsafio/mods/ejemplo-mod-1.20.1.jar",
-      "sha1": "PEGA_AQUI_EL_SHA1_DEL_ARCHIVO"
-    }
-  ]
-}
+   {
+     "forge": "47.3.0",
+     "serverIp": "",
+     "serverPort": 25565,
+     "ramMb": 4096,
+     "mods": []
+   }
