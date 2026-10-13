@@ -3,5 +3,11 @@
         "serverIp": "cairo-problematic.tun.ply.gg",
    "serverPort": 25565,
      "ramMb": 4096,
-     "mods": []
+    "mods": [
+  {
+    "file": "DEDSAFIO4-1_0_0-Forge.jar",
+    "url": "PEGA-AQUI-TU-ENLACE-DEL-RELEASE",
+    "sha1": "51a07006003ac2ce3696db6411322e0f7e660ce7"
+  }
+]
    }
