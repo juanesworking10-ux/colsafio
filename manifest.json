@@ -1,13 +1,8 @@
-   {
-     "forge": "47.4.10",
-        "serverIp": "cairo-problematic.tun.ply.gg",
-   "serverPort": 25565,
-     "ramMb": 4096,
-    "mods": [
-  {
-    "file": "DEDSAFIO4-1_0_0-Forge.jar",
-    "url": "https://github.com/juanesworking10-ux/colsafio/releases/download/v1/DEDSAFIO4-1.0.0-Forge.jar",
-    "sha1": "51a07006003ac2ce3696db6411322e0f7e660ce7"
-  }
-]
-   }
+{
+  "fabricLoader": "",
+  "serverIp": "cairo-problematic.tun.ply.gg",
+  "serverPort": 25565,
+  "ramMb": 4096,
+  "mods": []
+}
+
