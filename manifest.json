@@ -3,6 +3,17 @@
   "serverIp": "cairo-problematic.tun.ply.gg",
   "serverPort": 25565,
   "ramMb": 4096,
-  "mods": []
+  "mods": [
+  {
+    "file": "colsafio-1.0.0.jar",
+    "url": "https://raw.githubusercontent.com/juanesworking10-ux/colsafio/main/colsafio-1.0.0.jar",
+    "sha1": bc7e79b0eb03dd7e961aea58d323fc734ff89419"
+  },
+  {
+    "file": "fabric-api-0.92.12-1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juanesworking10-ux/colsafio/main/fabric-api-0.92.12-1.20.1.jar",
+    "sha1": 3e9cdd3e2f827ca9a259df9eb8e31949437b6bd4
+  }
+]
 }
 
